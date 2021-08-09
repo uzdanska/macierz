@@ -1,0 +1,16 @@
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\Macierze.csprojAssemblyReference.cache
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\Macierze.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\Macierze.AssemblyInfoInputs.cache
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\Macierze.AssemblyInfo.cs
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\Macierze.csproj.CoreCompileInputs.cache
+C:\projekty_c#\numery\Macierze\bin\Debug\net5.0\Macierze.exe
+C:\projekty_c#\numery\Macierze\bin\Debug\net5.0\Macierze.deps.json
+C:\projekty_c#\numery\Macierze\bin\Debug\net5.0\Macierze.runtimeconfig.json
+C:\projekty_c#\numery\Macierze\bin\Debug\net5.0\Macierze.runtimeconfig.dev.json
+C:\projekty_c#\numery\Macierze\bin\Debug\net5.0\Macierze.dll
+C:\projekty_c#\numery\Macierze\bin\Debug\net5.0\ref\Macierze.dll
+C:\projekty_c#\numery\Macierze\bin\Debug\net5.0\Macierze.pdb
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\Macierze.dll
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\ref\Macierze.dll
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\Macierze.pdb
+C:\projekty_c#\numery\Macierze\obj\Debug\net5.0\Macierze.genruntimeconfig.cache
